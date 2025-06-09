@@ -24,13 +24,13 @@ LICENSE - лицензия кода (MIT)
 
 Репозиторий предоставляется исключительно для некоммерческого академического и исследовательского использования.
 
-\section*{Цитирование}
+## Цитирование
+
 Если вы используете этот репозиторий в своих исследованиях, пожалуйста, укажите:
-\begin{lstlisting}[language=bibtex]
+```bibtex
 @misc{druchinin2025prompt,
   author       = {Druchinin, Dmitry},
   title        = {Prompt-Injections: Benchmarking Russian LLM Security},
   year         = {2025},
   howpublished = {\url{https://github.com/Dmtr-Dr/prompt-injections}}
 }
-\end{lstlisting}
